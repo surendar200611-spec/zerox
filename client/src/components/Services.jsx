@@ -8,7 +8,7 @@ import designImg from '../assets/design.png';
 
 const services = [
   { 
-    title: 'Zerox (B&W)', 
+    title: 'Xerox (B&W)', 
     desc: 'Elite black & white documentation. Precision single and double-sided copying with matte clarity.', 
     image: xeroxImg,
     price: ['A4 Single: ₹1', 'A4 Double: ₹0.60']

@@ -37,7 +37,7 @@ const AdminLogin = ({ onLogin }) => {
         </div>
         
         <h2 style={{ fontSize: '2rem', marginBottom: '10px' }} className="text-gradient">Admin Login</h2>
-        <p style={{ color: 'var(--text-muted)', marginBottom: '30px' }}>Dolfin Zerox Management Portal</p>
+        <p style={{ color: 'var(--text-muted)', marginBottom: '30px' }}>Dolfin Xerox Management Portal</p>
         
         <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
           <div style={{ position: 'relative' }}>

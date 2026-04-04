@@ -23,7 +23,7 @@ const Hero = () => {
             <div style={{ maxWidth: '1000px', width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '25px' }}>
                 <img 
                     src="/logo.jpg" 
-                    alt="Dolfin Zerox Logo" 
+                    alt="Dolfin Xerox Logo" 
                     style={{ width: '120px', height: '120px', borderRadius: '30px', boxShadow: '0 10px 20px rgba(0, 0, 0, 0.1)', border: '4px solid var(--secondary)' }} 
                     className="float-animation"
                 />
@@ -50,7 +50,7 @@ const Hero = () => {
                     color: '#000000',
                     letterSpacing: '-2px',
                 }}>
-                    Dolfin Zerox <br /> <span style={{ color: '#DAB91B' }}>Fast & Smart</span>
+                    Dolfin Xerox <br /> <span style={{ color: '#DAB91B' }}>Fast & Smart</span>
                 </h1>
                 
                 <p style={{
@@ -61,7 +61,7 @@ const Hero = () => {
                     fontWeight: 500,
                     lineHeight: '1.6',
                 }}>
-                    The premium destination for all your printing needs. We combine the official Dolfin Zerox quality standards with modern 3D technology. 
+                    The premium destination for all your printing needs. We combine the official Dolfin Xerox quality standards with modern 3D technology. 
                 </p>
                 
                 <div style={{ display: 'flex', gap: '20px', marginTop: '10px', flexWrap: 'wrap', justifyContent: 'center' }}>

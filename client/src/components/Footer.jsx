@@ -6,7 +6,7 @@ const Footer = () => {
         <footer id="contact" style={{ padding: '80px 20px', background: '#FFFFFF', borderTop: '2px solid #000000' }}>
             <div style={{ maxWidth: '1200px', margin: '0 auto', display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '40px' }} className="footer-grid">
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '15px' }}>
-                    <h3 style={{ fontSize: '1.8rem', margin: 0, fontWeight: 900, color: '#000000' }}>Dolfin Zerox</h3>
+                    <h3 style={{ fontSize: '1.8rem', margin: 0, fontWeight: 900, color: '#000000' }}>Dolfin Xerox</h3>
                     <p style={{ color: '#555555', lineHeight: '1.6', fontSize: '1rem', fontWeight: 500 }}>
                         Elevating documentation standards with high-speed, professional, and elite printing services.
                     </p>
@@ -36,13 +36,13 @@ const Footer = () => {
                     </div>
                     <div style={{ display: 'flex', alignItems: 'center', gap: '12px', color: '#444444', fontWeight: 600, fontSize: '0.95rem' }}>
                         <Mail size={20} color="var(--primary)" style={{ flexShrink: 0 }} />
-                        <span>dolfinzerox2@gmail.com</span>
+                        <span>dolfinxerox2@gmail.com</span>
                     </div>
                 </div>
             </div>
 
             <div style={{ textAlign: 'center', marginTop: '60px', color: '#888888', borderTop: '1px solid #EEEEEE', paddingTop: '20px' }}>
-                <p style={{ fontSize: '0.85rem' }}>© 2026 Dolfin Zerox Enterprise. All Rights Reserved.</p>
+                <p style={{ fontSize: '0.85rem' }}>© 2026 Dolfin Xerox Enterprise. All Rights Reserved.</p>
             </div>
             
             <style>{`
